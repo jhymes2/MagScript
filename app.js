@@ -3,16 +3,18 @@
 const $ = (id) => document.getElementById(id);
 const el = {
   stage: $("stage"),
-  cueSpeaker: $("cue-speaker"), cueText: $("cue-text"),
+  cue: $("cue"),
   lineSpeaker: $("line-speaker"), lineText: $("line-text"),
   counter: $("counter"), where: $("where"), fill: $("progress-fill"),
   back: $("back"), grade: $("grade"), hint: $("hint"),
   got: $("got"), missed: $("missed"), toast: $("toast"),
+  startPage: $("start-page"),
 };
 
 let cards = [];
 let mode = "chrono";
 let revealed = false;
+let pool = []; // ids of cards on or after the chosen start page
 
 // In-order mode: just an index.
 const chrono = { idx: 0 };
@@ -30,7 +32,7 @@ function shuffle(arr) {
 }
 
 function startRound() {
-  random.queue = shuffle(cards.map((c) => c.id));
+  random.queue = shuffle([...pool]);
   random.got = 0;
   random.missed = 0;
 }
@@ -48,8 +50,8 @@ function awaitingGrade() {
 function next() {
   if (mode === "chrono") {
     if (chrono.idx === cards.length - 1) {
-      chrono.idx = 0;
-      toast("End of the play. Back to the start.");
+      chrono.idx = pool[0];
+      toast(`End of the play. Back to page ${cards[pool[0]].page}.`);
     } else {
       chrono.idx++;
     }
@@ -102,24 +104,33 @@ function primary() {
 
 function show() {
   revealed = false;
+  renderContext(currentCard());
   render();
   el.stage.scrollTop = 0;
-  el.cueText.scrollTop = el.cueText.scrollHeight; // the end of a long cue matters most
+  el.cue.scrollTop = el.cue.scrollHeight; // the lines just before the hidden one matter most
+}
+
+// The speeches leading up to the hidden line, shown in full.
+function renderContext(c) {
+  if (!c) return;
+  if (!c.context.length) {
+    el.cue.textContent = "(Top of the play)";
+    return;
+  }
+  el.cue.innerHTML = c.context.map((p) => {
+    const pg = p.page !== c.page ? `<span class="pg">p. ${p.page}</span>` : "";
+    return `<div class="speech">
+      <div class="speaker${p.mine ? " mine" : ""}">${escapeHtml(p.speaker)}.${pg}</div>
+      <div class="text">${escapeHtml(p.text)}</div>
+    </div>`;
+  }).join("");
+  const length = c.context.reduce((n, p) => n + p.text.length, 0);
+  el.cue.classList.toggle("long", length > 500);
 }
 
 function render() {
   const c = currentCard();
   if (!c) return;
-
-  if (c.cue) {
-    const cuePg = c.cue.page !== c.page ? `<span class="pg">p. ${c.cue.page}</span>` : "";
-    el.cueSpeaker.innerHTML = `${escapeHtml(c.cue.speaker)}.${cuePg}`;
-    el.cueText.textContent = c.cue.text;
-    el.cueText.classList.toggle("long", c.cue.text.length > 500);
-  } else {
-    el.cueSpeaker.textContent = "";
-    el.cueText.textContent = "(Top of the play)";
-  }
 
   el.lineSpeaker.textContent = c.speaker + ".";
   el.lineText.textContent = c.line;
@@ -134,8 +145,8 @@ function render() {
     el.back.disabled = chrono.idx === 0;
   } else {
     const missed = random.missed ? ` · ${random.missed} missed` : "";
-    el.counter.textContent = `Round ${random.round} · ${random.got} / ${cards.length} got${missed}`;
-    el.fill.style.width = `${(random.got / cards.length) * 100}%`;
+    el.counter.textContent = `Round ${random.round} · ${random.got} / ${pool.length} got${missed}`;
+    el.fill.style.width = `${(random.got / pool.length) * 100}%`;
     el.back.disabled = random.pos <= 0;
   }
 
@@ -154,6 +165,26 @@ function setMode(m) {
   else show();
 }
 
+// Jump to the first line on or after `page`. In random mode, restart the
+// shuffle with only the lines from that page on.
+function setStartPage(page) {
+  pool = cards.filter((c) => c.page >= page).map((c) => c.id);
+  chrono.idx = pool[0];
+  Object.assign(random, { history: [], pos: -1, graded: new Set(), round: 1 });
+  startRound();
+  if (mode === "random") next();
+  else show();
+}
+
+function buildPagePicker() {
+  const first = cards[0].page, last = cards[cards.length - 1].page;
+  for (let p = first; p <= last; p++) el.startPage.add(new Option(`From p. ${p}`, p));
+  el.startPage.addEventListener("change", () => {
+    setStartPage(Number(el.startPage.value));
+    el.startPage.blur(); // give Space/arrows back to the cards
+  });
+}
+
 let toastTimer;
 function toast(msg) {
   el.toast.textContent = msg;
@@ -169,7 +200,7 @@ function escapeHtml(s) {
 // --- Input ---------------------------------------------------------------
 
 document.addEventListener("keydown", (e) => {
-  if (e.metaKey || e.ctrlKey || e.altKey) return;
+  if (e.metaKey || e.ctrlKey || e.altKey || e.target === el.startPage) return;
   switch (e.key) {
     case " ":
     case "Enter":
@@ -226,10 +257,10 @@ fetch("cards.json")
   .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .then((data) => {
     cards = data.cards;
-    startRound();
-    show();
+    buildPagePicker();
+    setStartPage(cards[0].page);
   })
   .catch(() => {
-    el.cueText.textContent =
+    el.cue.textContent =
       "Couldn't load cards.json. If you opened this file directly, run `python3 -m http.server` in this folder and visit http://localhost:8000.";
   });

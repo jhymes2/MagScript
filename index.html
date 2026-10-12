@@ -15,9 +15,12 @@
       <span class="play">The Comeuppance</span>
       <span class="who">Caitlin</span>
     </div>
-    <div class="modes" role="tablist" aria-label="Mode">
-      <button role="tab" data-mode="chrono" aria-selected="true">In order</button>
-      <button role="tab" data-mode="random" aria-selected="false">Random</button>
+    <div class="picks">
+      <select id="start-page" class="page-pick" aria-label="Start page"></select>
+      <div class="modes" role="tablist" aria-label="Mode">
+        <button role="tab" data-mode="chrono" aria-selected="true">In order</button>
+        <button role="tab" data-mode="random" aria-selected="false">Random</button>
+      </div>
     </div>
   </header>
 
@@ -28,10 +31,7 @@
   <div class="progress"><div id="progress-fill"></div></div>
 
   <main id="stage" class="page" aria-live="polite">
-    <section class="cue">
-      <div class="speaker" id="cue-speaker"></div>
-      <div class="text" id="cue-text">Loading…</div>
-    </section>
+    <section class="cue" id="cue">Loading…</section>
     <section class="line">
       <div class="speaker mine" id="line-speaker"></div>
       <div class="text"><span id="line-text" class="redacted"></span></div>

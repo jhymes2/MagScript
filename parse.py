@@ -16,6 +16,7 @@ from difflib import SequenceMatcher
 from pypdf import PdfReader
 
 CHARACTER = "CAITLIN"
+CONTEXT = 4  # speeches shown before each hidden line
 TXT_PATH = "The Comeuppance.txt"
 PDF_PATH = "comeuppance with text.pdf"
 
@@ -142,19 +143,20 @@ def build_cards(speeches, page_for):
     for i, s in enumerate(speeches):
         if not includes_character(s["speaker"]):
             continue
-        cue = speeches[i - 1] if i > 0 else None
+        context = speeches[max(0, i - CONTEXT):i]
         cards.append({
             "id": len(cards),
             "scene": s["scene"],
             "page": page_for(s["word"]),
             "speaker": s["speaker"],
             "line": s["text"],
-            "cue": {
-                "speaker": cue["speaker"],
-                "text": cue["text"],
-                "page": page_for(cue["word"]),
-                "scene": cue["scene"],
-            } if cue else None,
+            "context": [{
+                "speaker": p["speaker"],
+                "text": p["text"],
+                "page": page_for(p["word"]),
+                "scene": p["scene"],
+                "mine": includes_character(p["speaker"]),
+            } for p in context],
         })
     return cards
 
@@ -162,11 +164,10 @@ def build_cards(speeches, page_for):
 def write_text(cards, path):
     with open(path, "w", encoding="utf-8") as f:
         for c in cards:
-            cue = c["cue"]
             f.write(f"--- #{c['id'] + 1}  Scene {c['scene']}, page {c['page']}\n")
-            if cue:
-                f.write(f"CUE  {cue['speaker']}. {cue['text']}\n")
-            f.write(f"LINE {c['speaker']}. {c['line']}\n\n")
+            for p in c["context"]:
+                f.write(f"     {p['speaker']}. {p['text']}\n")
+            f.write(f">>>> {c['speaker']}. {c['line']}\n\n")
 
 
 def main():
