@@ -1,0 +1,2891 @@
+{
+ "character": "CAITLIN",
+ "cards": [
+  {
+   "id": 0,
+   "scene": 1,
+   "page": 10,
+   "speaker": "CAITLIN",
+   "line": "Ursula!",
+   "cue": {
+    "speaker": "DEATH",
+    "text": "Hi, again. You'll have to pardon me. I come and go. I get shy. Historically, I've been rarely met with anything other than fear or anger or ... regret and, as I'm sure you can imagine, that sort of energy gets ... taxing. So I chose long ago to abandon any material form of my own and err on the side of the covert. I prefer now to move in and out of whatever vessel inspires me because, when I'm not working, I, like you, am a watcher. I like to watch. Sometimes I am in a tree. Sometimes in a rock. In a spider. In her web. The pollen in the air. A plant. A banister. That swing-I've been that, too. Each form offering its own ... pleasures? Powers? Benefits? For instance, I inhabit a body like this if my desire is to speak and, if I have one weakness ... it's for gossip. I suspect you share it? ... I don't know what it is, but I find all creatures so interesting, their idiosyncracies, their interiorities, their secrets. Their stories. These machines of will. And, like any good gossip, I'm always wanting to talk but, you know, finding the right listeners can be a challenge. So you should know you are very special. Who is that? ... Oh, I know her...",
+    "page": 9,
+    "scene": 1
+   }
+  },
+  {
+   "id": 1,
+   "scene": 1,
+   "page": 10,
+   "speaker": "CAITLIN",
+   "line": "What are you doing outside? It's freezing!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Hiii.",
+    "page": 10,
+    "scene": 1
+   }
+  },
+  {
+   "id": 2,
+   "scene": 1,
+   "page": 10,
+   "speaker": "CAITLIN",
+   "line": "Oh ... Okay! That's okay! Am I the first one here?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "It's not that cold. Is it? I thought we could do this on the porch.",
+    "page": 10,
+    "scene": 1
+   }
+  },
+  {
+   "id": 3,
+   "scene": 1,
+   "page": 10,
+   "speaker": "CAITLIN",
+   "line": "Oh, wow. Okay. I brought snacks! Hi, honey. How are you feeling?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Emilio is inside charging his phone.",
+    "page": 10,
+    "scene": 1
+   }
+  },
+  {
+   "id": 4,
+   "scene": 1,
+   "page": 10,
+   "speaker": "CAITLIN",
+   "line": "Great! Then you can come!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "I'm feeling fine.",
+    "page": 10,
+    "scene": 1
+   }
+  },
+  {
+   "id": 5,
+   "scene": 1,
+   "page": 10,
+   "speaker": "CAITLIN",
+   "line": "Ursula, you only get one twentieth reunion and I really think you're cheating yourself out of something special. Think of all the people who want to see you!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "I'm not coming.",
+    "page": 10,
+    "scene": 1
+   }
+  },
+  {
+   "id": 6,
+   "scene": 1,
+   "page": 10,
+   "speaker": "CAITLIN",
+   "line": "Why would you be uncomfortable? It's just an eyepatch! There's going to be way worse accessories on display. And we're all going to be there! M.E.R.G.E.!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "I didn't want to be uncomfortable.",
+    "page": 10,
+    "scene": 1
+   }
+  },
+  {
+   "id": 7,
+   "scene": 1,
+   "page": 10,
+   "speaker": "CAITLIN",
+   "line": "He did?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "I thought Simon just cancelled?",
+    "page": 10,
+    "scene": 1
+   }
+  },
+  {
+   "id": 8,
+   "scene": 1,
+   "page": 11,
+   "speaker": "CAITLIN",
+   "line": "Hi, stranger!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Hey!",
+    "page": 11,
+    "scene": 1
+   }
+  },
+  {
+   "id": 9,
+   "scene": 1,
+   "page": 11,
+   "speaker": "CAITLIN",
+   "line": "Yes. Thank you! Hi!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Do you want a drink Caitlin?",
+    "page": 11,
+    "scene": 1
+   }
+  },
+  {
+   "id": 10,
+   "scene": 1,
+   "page": 11,
+   "speaker": "CAITLIN",
+   "line": "I can't believe I haven't seen you since Kristina's wedding.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Hi!",
+    "page": 11,
+    "scene": 1
+   }
+  },
+  {
+   "id": 11,
+   "scene": 1,
+   "page": 11,
+   "speaker": "CAITLIN",
+   "line": "You look great.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Me, neither. Fifteen years? What the full fuck?",
+    "page": 11,
+    "scene": 1
+   }
+  },
+  {
+   "id": 12,
+   "scene": 1,
+   "page": 11,
+   "speaker": "CAITLIN",
+   "line": "So we're doing this outside?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Thanks. You, too.",
+    "page": 11,
+    "scene": 1
+   }
+  },
+  {
+   "id": 13,
+   "scene": 1,
+   "page": 11,
+   "speaker": "CAITLIN",
+   "line": "That makes sense. Is this your first time seeing her since she lost the-?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I think she's worried about people moving things around in there.",
+    "page": 11,
+    "scene": 1
+   }
+  },
+  {
+   "id": 14,
+   "scene": 1,
+   "page": 11,
+   "speaker": "CAITLIN",
+   "line": "It's a little crazy, right? We have got to get her to come to the reunion-get her out of the house. She's basically, like, become a shut-in. Her grandmother passed like right before the quarantine and then she was just all alone in the house and then lockdown happened and then she freaking goes blind and it's horrible. I'm afraid if we don't, you know, try, she'll never, you know, reengage or something. You know what I mean? She has had like truly the worst pandemic ever-except for people who actually, you know ... died. Anyway. This is going to be fun ... How was your COVID? I don't even remember what they did over there.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Yeah ...",
+    "page": 11,
+    "scene": 1
+   }
+  },
+  {
+   "id": 15,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "Oh my God, wait! What? When?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Um. It was still a thing in Europe. Ironically, I got a ton of work done. I had a kid.",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 16,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "Way to bury the lede! Olin-na?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Five months ago. Her name is Alena.",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 17,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "Oh, right. Berlin is in Germany.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Uh, yes. It's basically Alena. But German. My partner is German.",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 18,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "Oh my God! Congratulations?! Gosh, how long have you been out there now?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "That's right.",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 19,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "That would be fun. Do you have pictures?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Thirteen years. But it might be about time to move back. We'll see.",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 20,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "Good! They're good! Um, Brock just started law school at Madison, which is insane! And Olivia is a Junior at UVA!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Oh! Yes! Wait, my phone is charging. Let me go grab it. How are your ... kids ... ?",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 21,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "Over here. Thank you, Ursula!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Here we go ...",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 22,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "Oh my God, no! No! ... She's beautiful ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Here she is ...",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 23,
+   "scene": 1,
+   "page": 12,
+   "speaker": "CAITLIN",
+   "line": "Ursula, did you know Emilio had a kid?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Thanks. Made her myself. I mean, with help.",
+    "page": 12,
+    "scene": 1
+   }
+  },
+  {
+   "id": 24,
+   "scene": 1,
+   "page": 13,
+   "speaker": "CAITLIN",
+   "line": "Did you bring her with you?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "He just told me.",
+    "page": 13,
+    "scene": 1
+   }
+  },
+  {
+   "id": 25,
+   "scene": 1,
+   "page": 13,
+   "speaker": "CAITLIN",
+   "line": "If I had known, I would have brought a gift. Congratulations ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "No, she's back in Germany. She's only five months old.",
+    "page": 13,
+    "scene": 1
+   }
+  },
+  {
+   "id": 26,
+   "scene": 1,
+   "page": 13,
+   "speaker": "CAITLIN",
+   "line": "Mm! Ursula!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Thanks.",
+    "page": 13,
+    "scene": 1
+   }
+  },
+  {
+   "id": 27,
+   "scene": 1,
+   "page": 13,
+   "speaker": "CAITLIN",
+   "line": "Jungle juice?! Okay?! Mm, did Ursula tell you she took some mixology classes over the pandemic?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "It's jungle juice.",
+    "page": 13,
+    "scene": 1
+   }
+  },
+  {
+   "id": 28,
+   "scene": 1,
+   "page": 13,
+   "speaker": "CAITLIN",
+   "line": "I was trying to tell her she should really think about, you know, doing something with those classes.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "She did ...",
+    "page": 13,
+    "scene": 1
+   }
+  },
+  {
+   "id": 29,
+   "scene": 1,
+   "page": 13,
+   "speaker": "CAITLIN",
+   "line": "That doesn't have to be true. Michael and I were in London a few years ago and we went to this really interesting restaurant-I can't remember what it's called but it's pitch black and it's supposed to approximate the experience of being visually impaired and all of the servers and the chefs and everything are visually impaired and it was just so interesting. And I feel like there's something there. Like wouldn't it be cool if there was a speakeasy type thing that was pitch-dark and you had, you know, a bartender who was visually impaired serving your drinks? I mean, I just think that would be so interesting.",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Blind bartenders are not a thing.",
+    "page": 13,
+    "scene": 1
+   }
+  },
+  {
+   "id": 30,
+   "scene": 1,
+   "page": 13,
+   "speaker": "CAITLIN",
+   "line": "... Are you suggesting that I was just rambling?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Oh my God, yes. KRK.",
+    "page": 13,
+    "scene": 1
+   }
+  },
+  {
+   "id": 31,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "Anyway! I can't believe Simon cancelled?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "It was rambling. I'm pretty sure I invented the joke.",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 32,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "Ugh, the limo.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I know, so annoying. But he's offered to cover for the whole limo.",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 33,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "Of course I hate the fucking limo! It's embarrassing!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Wait, you hate the limo?!",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 34,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "What? How?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "The limo? No! It's funny!",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 35,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "But we're not teenagers anymore. Now we're just adults showing up in a limo.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Because in high school, every stupid prom, every homecoming, we were always randomly showing up in a limo like somehow it was a thing that people did in real life.",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 36,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "\"Conceptual\"? What does that mean?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "But isn't the point of this dumb event reliving high school for the night? I think people will think it's funny. Maybe it is a little conceptual.",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 37,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "Well, you don't still live around these people. I do ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Don't worry about it. Listen: It's just a little nostalgia.",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 38,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "So, for some of us, it may not be in our best interest to show up looking like shitheads.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "So?",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 39,
+   "scene": 1,
+   "page": 14,
+   "speaker": "CAITLIN",
+   "line": "Why?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Okay, well talk to Kristina. Though don't people already think you're a shithead by association?",
+    "page": 14,
+    "scene": 1
+   }
+  },
+  {
+   "id": 40,
+   "scene": 1,
+   "page": 15,
+   "speaker": "CAITLIN",
+   "line": "I just want to be mindful of other people's financial situations-like not everyone can afford a limo. And Michael was not in the group that actually stormed the capitol. And, as you well know, he and I don't necessarily share the same politics ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Yes, please. Are you really insulted? I'm sorry-",
+    "page": 15,
+    "scene": 1
+   }
+  },
+  {
+   "id": 41,
+   "scene": 1,
+   "page": 15,
+   "speaker": "CAITLIN",
+   "line": "It's fine. Plus you're right. I don't want to ruin Kristina's night. I think she's actually very excited about it. Speaking of: Where the eff is she?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I'm sure if you wanted to drive yourself, it wouldn't be a big deal.",
+    "page": 15,
+    "scene": 1
+   }
+  },
+  {
+   "id": 42,
+   "scene": 1,
+   "page": 15,
+   "speaker": "CAITLIN",
+   "line": "Uh, sort of? COVID's made things a little weird.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Are you and Kristina still close?",
+    "page": 15,
+    "scene": 1
+   }
+  },
+  {
+   "id": 43,
+   "scene": 1,
+   "page": 15,
+   "speaker": "CAITLIN",
+   "line": "Being a doctor during the pandemic seems to have not been the greatest experience? She's definitely, like, been through some shit and I think she may have developed a drinking problem as a result?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "How so?",
+    "page": 15,
+    "scene": 1
+   }
+  },
+  {
+   "id": 44,
+   "scene": 1,
+   "page": 15,
+   "speaker": "CAITLIN",
+   "line": "But I'm not sure? You'll have to tell me when you see her. The last couple of times we met up for happy hour, she sort of like drank so much she ... blacked out? ... As a grown woman? ... And I was sort of like, \"Huh ...\" You know how there's like this behavior that you can get away with in your twenties and everyone's like, \"Oh, xyz is so fun!\" But then you turn this corner and suddenly it's like, \"Oh she has a problem.\" That's kind of where I am with Kristina. I'm like, \"Am I supposed to say something?\" But also she's a doctor so, like, wouldn't she know better than me? But also she spent lockdown trapped in a house with Cameron and their five kids, so who am I to judge? Watching that was like ... the beginning of a podcast about murder.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What?",
+    "page": 15,
+    "scene": 1
+   }
+  },
+  {
+   "id": 45,
+   "scene": 1,
+   "page": 16,
+   "speaker": "CAITLIN",
+   "line": "How long did you and Kristina \"date\" or whatever? I forget.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "It's funny to think there's a bizarro multiverse in which she and I are still together.",
+    "page": 15,
+    "scene": 1
+   }
+  },
+  {
+   "id": 46,
+   "scene": 1,
+   "page": 16,
+   "speaker": "CAITLIN",
+   "line": "I know. Catholicism.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Half of sophomore year and all of junior year? Five kids, though?",
+    "page": 16,
+    "scene": 1
+   }
+  },
+  {
+   "id": 47,
+   "scene": 1,
+   "page": 16,
+   "speaker": "CAITLIN",
+   "line": "I have kids.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "You know, if I thought anyone was going to have a buttload of kids, it was going to be you ...",
+    "page": 16,
+    "scene": 1
+   }
+  },
+  {
+   "id": 48,
+   "scene": 1,
+   "page": 16,
+   "speaker": "CAITLIN",
+   "line": "Uh, no one talked me out of anything. It just never happened.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I mean, like kids of your own. How did Michael talk you out of that?",
+    "page": 16,
+    "scene": 1
+   }
+  },
+  {
+   "id": 49,
+   "scene": 1,
+   "page": 17,
+   "speaker": "CAITLIN",
+   "line": "Wait, Ursula! You know who I just heard is going to be there tonight?",
+   "cue": {
+    "speaker": "DEATH",
+    "text": "Actually-and not to make this moment about me-what happened was, well ... one, two, three, four miscarriages over the course of as many years? If not a little less. After a while, it was difficult to keep track. And if you're not careful, the same small tragedies repeated again and again begin to take on a new shape, begin to stack up into something larger-a bigger story you start telling yourself. The story of your curse. When, honestly, what I do is not something anyone deserves. Caitlin doesn't really talk about it much, obviously, because-after the first or second, it started to feel like a character flaw. Or at least that's how her husband made her feel about it-though he enjoys his own kids from a previous marriage. He made her stop. Her nerviness was getting to be too much for him. It was turning her into a whiner. It was making her seem unattractive. And who needs their husband thinking that? And there are worse things than a dead fetus. For instance: a dead baby. For instance: a dead toddler. With a positive enough mindset, you might even find a way to consider yourself lucky. Meanwhile, she's still got her figure. Nice skin. Good teeth. There is so much to admire about the human body. Especially at this age, so noble, fighting its good fight against a certain ... softening. Your cell repair systems-my, most ancient nemeses-are long broken down. You lose those at twenty-seven. Did you know that? Is anyone here twenty-seven? ... From that point on, it's my game. Wrinkles. A little sag. A creaking in the joints. A misplaced word or two or several. From that point on, it's just me and you ... and you ... and you ... and you ... and you ... Anyway, let me stop-",
+    "page": 16,
+    "scene": 1
+   }
+  },
+  {
+   "id": 50,
+   "scene": 1,
+   "page": 17,
+   "speaker": "CAITLIN",
+   "line": "Cindy Podolski.",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Who?",
+    "page": 17,
+    "scene": 1
+   }
+  },
+  {
+   "id": 51,
+   "scene": 1,
+   "page": 17,
+   "speaker": "CAITLIN",
+   "line": "Cindy Podolski?! Come on, you remember her? She was epileptic?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Who?",
+    "page": 17,
+    "scene": 1
+   }
+  },
+  {
+   "id": 52,
+   "scene": 1,
+   "page": 17,
+   "speaker": "CAITLIN",
+   "line": "I think she did it for the attention. There: I said it.",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "It actually happened multiple times.",
+    "page": 17,
+    "scene": 1
+   }
+  },
+  {
+   "id": 53,
+   "scene": 1,
+   "page": 17,
+   "speaker": "CAITLIN",
+   "line": "I'm saying it's suspicious that she kept going back to the dances. It's like returning to the scene of the crime.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Are you saying she faked being epileptic?",
+    "page": 17,
+    "scene": 1
+   }
+  },
+  {
+   "id": 54,
+   "scene": 1,
+   "page": 17,
+   "speaker": "CAITLIN",
+   "line": "There was at the fifteenth. Here she is.",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Is there going to be dancing tonight?",
+    "page": 17,
+    "scene": 1
+   }
+  },
+  {
+   "id": 55,
+   "scene": 1,
+   "page": 17,
+   "speaker": "CAITLIN",
+   "line": "I think people are coming in from all over. I guess twenty is a big number. Which is why you need to come, Ursula! Don't you want to see Cindy seize again?!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Oh, yeah ... I remember her... She's coming from Seattle? That's far.",
+    "page": 17,
+    "scene": 1
+   }
+  },
+  {
+   "id": 56,
+   "scene": 1,
+   "page": 18,
+   "speaker": "CAITLIN",
+   "line": "But you went to the fifteenth and the tenth and the fifth. It's going to be odd if you drop out. People are going to think you're dead! I don't want to keep having to explain to people that you're not dead!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "I'm good.",
+    "page": 18,
+    "scene": 1
+   }
+  },
+  {
+   "id": 57,
+   "scene": 1,
+   "page": 18,
+   "speaker": "CAITLIN",
+   "line": "They were fine. How come you never came?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "How were those other reunions?",
+    "page": 18,
+    "scene": 1
+   }
+  },
+  {
+   "id": 58,
+   "scene": 1,
+   "page": 18,
+   "speaker": "CAITLIN",
+   "line": "I ... thought it was just fun to see people ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I...don't know. I was still on Facebook at the time, so I figured, like, \"Why bother?\" We all knew what we looked like, who had kids, who didn't have kids, who had what kind of job. I just found the idea of gathering in some random two-star Marriott to confirm all that just so tedious. I feel like before Facebook, reunions were a real encounter with the brutal beatdown of time. You just sort of showed up and had no idea who would be there or how fucked up they would look and then you realized that maybe you looked a little fucked up too and every encounter was like a whole dark ritual of the soul where each party was confronted by the specter of their own mortality, just like, \"Oh shit!\" I don't know. You know?",
+    "page": 18,
+    "scene": 1
+   }
+  },
+  {
+   "id": 59,
+   "scene": 1,
+   "page": 18,
+   "speaker": "CAITLIN",
+   "line": "Wait-what are you doing with my phone?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Uh, I'm not on Facebook anymore-",
+    "page": 18,
+    "scene": 1
+   }
+  },
+  {
+   "id": 60,
+   "scene": 1,
+   "page": 19,
+   "speaker": "CAITLIN",
+   "line": "Was.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "This is a lot of pictures of him with guns. And trucks ... Oh there's him with a gun in front of a truck ... And that's a tank. He's military?",
+    "page": 19,
+    "scene": 1
+   }
+  },
+  {
+   "id": 61,
+   "scene": 1,
+   "page": 19,
+   "speaker": "CAITLIN",
+   "line": "I don't know. He just added me one day.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Wait, how are you friends with Huey Michael Lewis?",
+    "page": 19,
+    "scene": 1
+   }
+  },
+  {
+   "id": 62,
+   "scene": 1,
+   "page": 19,
+   "speaker": "CAITLIN",
+   "line": "Yes? Why not? Give me my phone back!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "And you accepted?",
+    "page": 19,
+    "scene": 1
+   }
+  },
+  {
+   "id": 63,
+   "scene": 1,
+   "page": 19,
+   "speaker": "CAITLIN",
+   "line": "Uh, yeah? ... What?!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "God, guys, remember Columbine?",
+    "page": 19,
+    "scene": 1
+   }
+  },
+  {
+   "id": 64,
+   "scene": 1,
+   "page": 19,
+   "speaker": "CAITLIN",
+   "line": "I think that was just you.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Man, compared to now it feels almost ... like quaint-but remember how everyone was so much nicer to Huey afterwards? Like everyone was afraid of him?",
+    "page": 19,
+    "scene": 1
+   }
+  },
+  {
+   "id": 65,
+   "scene": 1,
+   "page": 19,
+   "speaker": "CAITLIN",
+   "line": "Half of our friends were in/ JROTC-?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "You know: spookily quiet? Kind of a recluse? Physically sort of ... elven? And, I mean, he was JROTC, which was like free revenge-training for baby psychopaths. Like, oh my God, Ryan Morgan? Do you remember him? And that guy with the birthmark on his face-Frankie ... Something. Their energy was way too dark for teenagers. And they were all in rifle club together. I mean, why was there a rifle club at our school? Like, why would you give these people access to guns? The fact you're even fake-training for a life in the military at that age clearly means there's something wrong with you.",
+    "page": 19,
+    "scene": 1
+   }
+  },
+  {
+   "id": 66,
+   "scene": 1,
+   "page": 20,
+   "speaker": "CAITLIN",
+   "line": "And Paco.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Yeah, but that's not the same thing. Ursula only did it for a year and only for the little discount on tuition they gave you and Kristina's dad is a sergeant or whatever so she was really born into it-/ indoctrinated-",
+    "page": 19,
+    "scene": 1
+   }
+  },
+  {
+   "id": 67,
+   "scene": 1,
+   "page": 20,
+   "speaker": "CAITLIN",
+   "line": "Paco was not a psychotic?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Okay, and Paco, but I mean, come on, hello-case in point: Paco was a psychotic.",
+    "page": 20,
+    "scene": 1
+   }
+  },
+  {
+   "id": 68,
+   "scene": 1,
+   "page": 20,
+   "speaker": "CAITLIN",
+   "line": "Excuse me?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Caitlin, are you kidding me? Paco had obvious emotional problems. Look at the way he treated you. Though, what am I even talking about? Your profound lack of boundaries back then didn't exactly help.",
+    "page": 20,
+    "scene": 1
+   }
+  },
+  {
+   "id": 69,
+   "scene": 1,
+   "page": 20,
+   "speaker": "CAITLIN",
+   "line": "The point is Huey Michael Lewis didn't shoot up the school. He actually joined the military, which was the point of JROTC-",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Oh, come on ... You know your whole obsession in high school with having a boyfriend? It just led you into these bad situations with these like messed-up, manipulative Big Chief dickhead-types and Paco was like-ugh, he was like the platonic form of this asshole. Like, he was always making you feel like shit for not doing the things he wanted you to do so then you'd do them but then he'd just basically ignore you afterwards and you'd be like crying all through lunch period and refusing to eat until everyone would have to convince you to break up but then he'd be like running around like emotionally punching lockers for the rest of the day until you'd go back to him so you could feel ... needed I guess. The cycle would just go on and on and on. But, you know, I suppose no one got enough attention at home or whatever. What? We've definitely talked about this? Like a million years ago? Do you not remember this?",
+    "page": 20,
+    "scene": 1
+   }
+  },
+  {
+   "id": 70,
+   "scene": 1,
+   "page": 20,
+   "speaker": "CAITLIN",
+   "line": "And so did Kristina, who did actual ROTC in college-",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Okay.",
+    "page": 20,
+    "scene": 1
+   }
+  },
+  {
+   "id": 71,
+   "scene": 1,
+   "page": 21,
+   "speaker": "CAITLIN",
+   "line": "And Paco-",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Right, to pay for med school, and now she's a doctor, / so that's cheating-",
+    "page": 20,
+    "scene": 1
+   }
+  },
+  {
+   "id": 72,
+   "scene": 1,
+   "page": 21,
+   "speaker": "CAITLIN",
+   "line": "And Frankie Martinez and Ryan Marshall actually both served, too, you know.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Okay... ?",
+    "page": 21,
+    "scene": 1
+   }
+  },
+  {
+   "id": 73,
+   "scene": 1,
+   "page": 21,
+   "speaker": "CAITLIN",
+   "line": "Yeah, Ryan did like three tours of Afghanistan. And Frankie was in Baghdad with Paco for a while actually. The same platoon or whatever.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Really?",
+    "page": 21,
+    "scene": 1
+   }
+  },
+  {
+   "id": 74,
+   "scene": 1,
+   "page": 21,
+   "speaker": "CAITLIN",
+   "line": "What if I am?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Okay, Caitlin, so the military continued to be a home for an endless parade of formerly unstable youth. How is that news? I was just talking about Columbine. How do you know all this? You follow them on Instagram, too?",
+    "page": 21,
+    "scene": 1
+   }
+  },
+  {
+   "id": 75,
+   "scene": 1,
+   "page": 21,
+   "speaker": "CAITLIN",
+   "line": "What does that have to do with anything? You just add people in Instagram?! Bloop bloop/ bloop follow back follow back bloop-!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I don't know. You weren't friends with any of these people in high school.",
+    "page": 21,
+    "scene": 1
+   }
+  },
+  {
+   "id": 76,
+   "scene": 1,
+   "page": 21,
+   "speaker": "CAITLIN",
+   "line": "Because you're suddenly trying to tell me who I can and who I can't be friends with on Instagram!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Why are you screaming at me?",
+    "page": 21,
+    "scene": 1
+   }
+  },
+  {
+   "id": 77,
+   "scene": 1,
+   "page": 21,
+   "speaker": "CAITLIN",
+   "line": "Paco was almost killed over there. Are you aware of this?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Whoa, whoa, whoa, okay, okay! Chill.",
+    "page": 21,
+    "scene": 1
+   }
+  },
+  {
+   "id": 78,
+   "scene": 1,
+   "page": 21,
+   "speaker": "CAITLIN",
+   "line": "He was in some sort of ambush situation. He was in a truck behind some truck that hit one of those IED things and he only survived because the one he was in turned over and he was basically crushed inside while the rest of them, you know, fought off... the insurgents or whatever. But he broke both his legs, had all these-what do you call it?-shrapnel wounds. Couldn't walk for months. Half of his friends died and he was just trapped there listening to it happen.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "No?",
+    "page": 21,
+    "scene": 1
+   }
+  },
+  {
+   "id": 79,
+   "scene": 1,
+   "page": 22,
+   "speaker": "CAITLIN",
+   "line": "2010? 2011? A while ago. Anyway, I found out about that and I reached out back then. I wrote him little messages or whatever on Facebook and, when we were going back and forth, he told me there were a lot of guys over there who didn't have anyone writing to them and I started feeling guilty for some reason and, I don't know, one day I just sort of woke up in the middle of the night and friended everybody in our class who I knew or heard was over there and wrote them little notes too and I guess when everything switched over to Instagram they migrated with me. So that's why I'm friends with all those guys. Alright? Where is Kristina?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Jesus ... When was this?",
+    "page": 22,
+    "scene": 1
+   }
+  },
+  {
+   "id": 80,
+   "scene": 1,
+   "page": 22,
+   "speaker": "CAITLIN",
+   "line": "I don't know. A few years?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "How long were you talking to Paco?",
+    "page": 22,
+    "scene": 1
+   }
+  },
+  {
+   "id": 81,
+   "scene": 1,
+   "page": 22,
+   "speaker": "CAITLIN",
+   "line": "Uh, not really. He moved out to California when he came back. Kristina told me he was finishing his degree. We sort of lost touch. I don't know if he even checks his messages anymore. He never posts.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Are you still in touch?",
+    "page": 22,
+    "scene": 1
+   }
+  },
+  {
+   "id": 82,
+   "scene": 1,
+   "page": 22,
+   "speaker": "CAITLIN",
+   "line": "How is that weird?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "That's so weird.",
+    "page": 22,
+    "scene": 1
+   }
+  },
+  {
+   "id": 83,
+   "scene": 1,
+   "page": 22,
+   "speaker": "CAITLIN",
+   "line": "That was high school.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I don't know. I guess I remember things between you two ending on a gross note.",
+    "page": 22,
+    "scene": 1
+   }
+  },
+  {
+   "id": 84,
+   "scene": 1,
+   "page": 22,
+   "speaker": "CAITLIN",
+   "line": "He actually used to ask about you a lot-about how you were doing.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I'm just surprised.",
+    "page": 22,
+    "scene": 1
+   }
+  },
+  {
+   "id": 85,
+   "scene": 1,
+   "page": 22,
+   "speaker": "CAITLIN",
+   "line": "Because I guess he thought he was your friend?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Why?",
+    "page": 22,
+    "scene": 1
+   }
+  },
+  {
+   "id": 86,
+   "scene": 1,
+   "page": 22,
+   "speaker": "CAITLIN",
+   "line": "He only gave you a hard time because you were dating Kristina and that was his cousin.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Uh, well, he wasn't. He was your boyfriend. And a piece of shit to me.",
+    "page": 22,
+    "scene": 1
+   }
+  },
+  {
+   "id": 87,
+   "scene": 1,
+   "page": 23,
+   "speaker": "CAITLIN",
+   "line": "What?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Oh, give me a break-what?",
+    "page": 23,
+    "scene": 1
+   }
+  },
+  {
+   "id": 88,
+   "scene": 1,
+   "page": 23,
+   "speaker": "CAITLIN",
+   "line": "I think so? Maybe she has a prescription?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Is this okay?",
+    "page": 23,
+    "scene": 1
+   }
+  },
+  {
+   "id": 89,
+   "scene": 1,
+   "page": 23,
+   "speaker": "CAITLIN",
+   "line": "Well, it's legal now.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "For what? Being blind in one eye? That's not a thing.",
+    "page": 23,
+    "scene": 1
+   }
+  },
+  {
+   "id": 90,
+   "scene": 1,
+   "page": 23,
+   "speaker": "CAITLIN",
+   "line": "And, honestly, Ursula's always secretly sort of been a huge pothead, I think. She and her grandma both.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Right.",
+    "page": 23,
+    "scene": 1
+   }
+  },
+  {
+   "id": 91,
+   "scene": 1,
+   "page": 23,
+   "speaker": "CAITLIN",
+   "line": "Back when she was alive, they would just like wake up and smoke pot all day.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What?",
+    "page": 23,
+    "scene": 1
+   }
+  },
+  {
+   "id": 92,
+   "scene": 1,
+   "page": 24,
+   "speaker": "CAITLIN",
+   "line": "Did you guys smoke weed in high school?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I'll smoke a little.",
+    "page": 23,
+    "scene": 1
+   }
+  },
+  {
+   "id": 93,
+   "scene": 1,
+   "page": 24,
+   "speaker": "CAITLIN",
+   "line": "No.",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "No. Not really. Did you?",
+    "page": 24,
+    "scene": 1
+   }
+  },
+  {
+   "id": 94,
+   "scene": 1,
+   "page": 24,
+   "speaker": "CAITLIN",
+   "line": "Same.",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Same.",
+    "page": 24,
+    "scene": 1
+   }
+  },
+  {
+   "id": 95,
+   "scene": 1,
+   "page": 25,
+   "speaker": "CAITLIN",
+   "line": "What is taking Kristina so long?! That limo is going to be here soon.",
+   "cue": {
+    "speaker": "DEATH",
+    "text": "I'd like to revise a statement from earlier. Do not get the impression that I am some sort of misanthrope. I am quite friendly. In fact, I recognized a few of you out there, in the dark. And I think some would argue that knowing me comes with certain benefits. Certain sensitivities and insights, a lucidity, a greater patience for mystery, a sense of humor. For example, Ursula. She has known me quite intimately for some time now, mostly through her grandmother's extended battles with the fickleness of the human cell. But my actual relationship with Ursula goes as far back as her ... first days of life? Her mother, the day after Ursula's delivery, stood up too quickly from her hospital bed, fell and cracked her head against the corner of a radiator. She died instantly but bled and bled and bled and the sight of all that blood sent her father running, never to return, too worried he might not ever look at his daughter and feel any other than grief. So this is why her grandmother had to raise her. Of course, when asked about the arrangement, you never lead with the details. You say simply, \"My mother died.\" Which inevitably leads to the question, \"When?\" To which Ursula must reply, \"Shortly after I was born.\" Then there's usually this pause as they wonder if she might be the culprit. Then comes the dreaded, \"... How?\" And, depending on the questioner, Ursula will or won't make a joke I never tire of. She goes, \"Like this-\" Hilarious. Because truly what difference does it make? They want to know but they really don't and, when you're in a situation like hers, you learn very early about the average person's capacity for avoiding those who seem to carry my mark. Everyone treats you differently. So, up close and personal with the power of fear, its absurdity, you develop a real sense of humor about things-about people. About life. And look at her. I think she's wonderful. I'm allowed to think people are wonderful.",
+    "page": 24,
+    "scene": 1
+   }
+  },
+  {
+   "id": 96,
+   "scene": 1,
+   "page": 25,
+   "speaker": "CAITLIN",
+   "line": "I don't want to show up to our reunion stoned!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Caitlin, you have to have some of this or I'm not going to make it to the reunion.",
+    "page": 25,
+    "scene": 1
+   }
+  },
+  {
+   "id": 97,
+   "scene": 1,
+   "page": 25,
+   "speaker": "CAITLIN",
+   "line": "Can you believe Emilio has a kid?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Come on. Nobody cares you're married to an ex-cop. Nobody's going to make you pee into a cup. Just have a little bit. Ursula just said it wasn't that strong. Shit. I keep forgetting about my phone. Here!",
+    "page": 25,
+    "scene": 1
+   }
+  },
+  {
+   "id": 98,
+   "scene": 1,
+   "page": 25,
+   "speaker": "CAITLIN",
+   "line": "Who is his partner?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "I know?!",
+    "page": 25,
+    "scene": 1
+   }
+  },
+  {
+   "id": 99,
+   "scene": 1,
+   "page": 25,
+   "speaker": "CAITLIN",
+   "line": "Wow. I wonder how they did it. That sort of thing can be so expensive. Is he, like, rich now?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "I don't know.",
+    "page": 25,
+    "scene": 1
+   }
+  },
+  {
+   "id": 100,
+   "scene": 1,
+   "page": 26,
+   "speaker": "CAITLIN",
+   "line": "Yeah!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Okay, then how did you have your kid?",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 101,
+   "scene": 1,
+   "page": 26,
+   "speaker": "CAITLIN",
+   "line": "Oh! Your partner is ... female ...",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Oh! Okay!",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 102,
+   "scene": 1,
+   "page": 26,
+   "speaker": "CAITLIN",
+   "line": "I, okay. Wow. Because you used the word \"partner\" and I wasn't ... okay. Okay. What's her name?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Yes ...",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 103,
+   "scene": 1,
+   "page": 26,
+   "speaker": "CAITLIN",
+   "line": "Oh!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Annika ...",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 104,
+   "scene": 1,
+   "page": 26,
+   "speaker": "CAITLIN",
+   "line": "What?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I...",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 105,
+   "scene": 1,
+   "page": 26,
+   "speaker": "CAITLIN",
+   "line": "It's not like we wouldn't accept you no matter what.",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Oh, no, no-",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 106,
+   "scene": 1,
+   "page": 26,
+   "speaker": "CAITLIN",
+   "line": "Well, I mean, um ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "But why would I just like ... suddenly be gay?",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 107,
+   "scene": 1,
+   "page": 26,
+   "speaker": "CAITLIN",
+   "line": "I don't know! You were always ... really into art!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I'm sorry but am I learning right now that you thought I was gay in high school?",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 108,
+   "scene": 1,
+   "page": 27,
+   "speaker": "CAITLIN",
+   "line": "Exactly. But you didn't play any sports in high school. You were really neat. And so stylish!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I was-I'm an artist!",
+    "page": 26,
+    "scene": 1
+   }
+  },
+  {
+   "id": 109,
+   "scene": 1,
+   "page": 27,
+   "speaker": "CAITLIN",
+   "line": "Yeah, but you guys never did anything!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What? But I actually had a girlfriend! Who you knew!",
+    "page": 27,
+    "scene": 1
+   }
+  },
+  {
+   "id": 110,
+   "scene": 1,
+   "page": 27,
+   "speaker": "CAITLIN",
+   "line": "Kristina did. She said, when you were dating, you wouldn't even let her give you a hand job.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What? Who told you that?",
+    "page": 27,
+    "scene": 1
+   }
+  },
+  {
+   "id": 111,
+   "scene": 1,
+   "page": 27,
+   "speaker": "CAITLIN",
+   "line": "What?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Speaking of-Hey Kristina ... Yeah, we're here ... Yes, I heard. Everyone's annoyed at him ... / Okay... Yeah, just have them pull in around the corner. Okay. Bye.",
+    "page": 27,
+    "scene": 1
+   }
+  },
+  {
+   "id": 112,
+   "scene": 1,
+   "page": 27,
+   "speaker": "CAITLIN",
+   "line": "But why didn't you let her give you a hand job?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "She had like a huge thing about butts. Remember how she would break down into tears if she smelled a fart? She was like OCD. She wouldn't even let me finger her because she lived in constant fear of yeast infections.",
+    "page": 27,
+    "scene": 1
+   }
+  },
+  {
+   "id": 113,
+   "scene": 1,
+   "page": 27,
+   "speaker": "CAITLIN",
+   "line": "Well, you were the only guy in school keeping track.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Because I didn't want a fucking hand job! And she doesn't get to give me a hand job if I can't finger her. That doesn't seem fair!",
+    "page": 27,
+    "scene": 1
+   }
+  },
+  {
+   "id": 114,
+   "scene": 1,
+   "page": 27,
+   "speaker": "CAITLIN",
+   "line": "Also Paco and I always thought you had a crush on Simon. The way you guys were like attached at the hip-",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Yeah, you would know, wouldn't you ...",
+    "page": 27,
+    "scene": 1
+   }
+  },
+  {
+   "id": 115,
+   "scene": 1,
+   "page": 27,
+   "speaker": "CAITLIN",
+   "line": "Okay, well, just calm down. You're really getting a little over-defensive about this for a straight guy.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What the fuck are you-I did not have a crush on Simon!",
+    "page": 27,
+    "scene": 1
+   }
+  },
+  {
+   "id": 116,
+   "scene": 1,
+   "page": 28,
+   "speaker": "CAITLIN",
+   "line": "L. O. L. Ursula.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Oh my God-",
+    "page": 28,
+    "scene": 1
+   }
+  },
+  {
+   "id": 117,
+   "scene": 1,
+   "page": 28,
+   "speaker": "CAITLIN",
+   "line": "Whatever. The point is you do it to make someone shut up. Thank you, Ursula!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "That's not what it's for!",
+    "page": 28,
+    "scene": 1
+   }
+  },
+  {
+   "id": 118,
+   "scene": 1,
+   "page": 28,
+   "speaker": "CAITLIN",
+   "line": "What was wrong with us?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Whatever. Oh wait do you remember this one? Shhhh, shhhh, shhhh, shhhh, shhhh!",
+    "page": 28,
+    "scene": 1
+   }
+  },
+  {
+   "id": 119,
+   "scene": 1,
+   "page": 28,
+   "speaker": "CAITLIN",
+   "line": "Yes. Who's she with? Is that Cameron?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Is that Kristina?",
+    "page": 28,
+    "scene": 1
+   }
+  },
+  {
+   "id": 120,
+   "scene": 1,
+   "page": 29,
+   "speaker": "CAITLIN",
+   "line": "What?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Wait. You guys I just got an idea.",
+    "page": 28,
+    "scene": 1
+   }
+  },
+  {
+   "id": 121,
+   "scene": 1,
+   "page": 29,
+   "speaker": "CAITLIN",
+   "line": "Why would we moon Kristina? That doesn't make any sense.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "We should totally moon Kristina. It'll freak her out.",
+    "page": 29,
+    "scene": 1
+   }
+  },
+  {
+   "id": 122,
+   "scene": 1,
+   "page": 29,
+   "speaker": "CAITLIN",
+   "line": "Emilio, why would pulling our pants down be funny?!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Okay, why are you guys being so technical? We just pull our fucking pants down and moon her as she walks up! It'll be funny.",
+    "page": 29,
+    "scene": 1
+   }
+  },
+  {
+   "id": 123,
+   "scene": 1,
+   "page": 29,
+   "speaker": "CAITLIN",
+   "line": "Wait that's not ... Cameron ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Because Kristina's a fucking prude and a gossip with a buttphobia and we haven't fucking seen each other in a long-Fuck you guys. I'm mooning her.",
+    "page": 29,
+    "scene": 1
+   }
+  },
+  {
+   "id": 124,
+   "scene": 1,
+   "page": 29,
+   "speaker": "CAITLIN",
+   "line": "Oh my God ...",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Kristina, you made ... it.",
+    "page": 29,
+    "scene": 1
+   }
+  },
+  {
+   "id": 125,
+   "scene": 1,
+   "page": 30,
+   "speaker": "CAITLIN",
+   "line": "Oh my God! What is happening right now?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What is going on?",
+    "page": 30,
+    "scene": 1
+   }
+  },
+  {
+   "id": 126,
+   "scene": 1,
+   "page": 30,
+   "speaker": "CAITLIN",
+   "line": "You're ... here?",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "I know! I'm back! And I definitely owe you like a thousand emails, sorry- But, man, a real-life hug! What?!",
+    "page": 30,
+    "scene": 1
+   }
+  },
+  {
+   "id": 127,
+   "scene": 1,
+   "page": 31,
+   "speaker": "CAITLIN",
+   "line": "Uh, sure-",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "It's alright that I brought him, right?",
+    "page": 31,
+    "scene": 1
+   }
+  },
+  {
+   "id": 128,
+   "scene": 1,
+   "page": 31,
+   "speaker": "CAITLIN",
+   "line": "Right ...",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Okay, good. I should have given you a heads-up but it's just been complete madness since he got home like two days ago and when I finally saw him last night, I actually asked if he wanted to come with us to the reunion but he said no and this afternoon he texted me saying yes and then it was no and then it was yes. I think the reason he kept going back and forth about coming was because he knew you'd be here Caitlin. I guess he feels bad because he hasn't written you or something? But I was like, \"She's not going to give a fuck! How long has it been since you've seen each other? She's going to be totally thrilled to see you.\" Right?",
+    "page": 31,
+    "scene": 1
+   }
+  },
+  {
+   "id": 129,
+   "scene": 1,
+   "page": 31,
+   "speaker": "CAITLIN",
+   "line": "Thanks ... Yours ... too ... ?",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "So? How the fuck are they going to know who anyone is? We'll just sneak him in. I mean now that Simon's fucking cancelled, maybe we'll just tell everyone he's Simon. Actually that's not a bad idea. Can you believe that asshole cancelled? Who cares if robots are learning to type or whatever? Caitlin, this dress is gorgeous ...",
+    "page": 31,
+    "scene": 1
+   }
+  },
+  {
+   "id": 130,
+   "scene": 1,
+   "page": 32,
+   "speaker": "CAITLIN",
+   "line": "Oh no ...",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Sure. BRB. Oh my God, why are you guys laughing? What's so funny?",
+    "page": 32,
+    "scene": 1
+   }
+  },
+  {
+   "id": 131,
+   "scene": 1,
+   "page": 32,
+   "speaker": "CAITLIN",
+   "line": "I'm too stoned for this. Oh no ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I know. What the fuck?!",
+    "page": 32,
+    "scene": 1
+   }
+  },
+  {
+   "id": 132,
+   "scene": 1,
+   "page": 32,
+   "speaker": "CAITLIN",
+   "line": "What?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What does Kristina think she's doing? This is so inconsiderate.",
+    "page": 32,
+    "scene": 1
+   }
+  },
+  {
+   "id": 133,
+   "scene": 1,
+   "page": 32,
+   "speaker": "CAITLIN",
+   "line": "Yes he was.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I mean, what the fuck is she even talking about? \"M.E.R.G.E.\"? Paco was not even in M.E.R.G.E.",
+    "page": 32,
+    "scene": 1
+   }
+  },
+  {
+   "id": 134,
+   "scene": 1,
+   "page": 32,
+   "speaker": "CAITLIN",
+   "line": "Why? Because it was your Welcome Home party?!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "No he wasn't. Just because you dated doesn't make him a member of our group. She can't just hijack this and turn this into Paco's Welcome Home party.",
+    "page": 32,
+    "scene": 1
+   }
+  },
+  {
+   "id": 135,
+   "scene": 1,
+   "page": 32,
+   "speaker": "CAITLIN",
+   "line": "What are you talking about?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Uh, no, Caitlin? Wait, what just happened?",
+    "page": 32,
+    "scene": 1
+   }
+  },
+  {
+   "id": 136,
+   "scene": 1,
+   "page": 33,
+   "speaker": "CAITLIN",
+   "line": "Because I'm high! Because you and Ursula made me do drugs!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Why are you suddenly acting so different?",
+    "page": 32,
+    "scene": 1
+   }
+  },
+  {
+   "id": 137,
+   "scene": 1,
+   "page": 33,
+   "speaker": "CAITLIN",
+   "line": "Remember what?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Made you? Wait ... I remember this ...",
+    "page": 33,
+    "scene": 1
+   }
+  },
+  {
+   "id": 138,
+   "scene": 1,
+   "page": 33,
+   "speaker": "CAITLIN",
+   "line": "Will you stop it? You are spiralling. Please just be nice.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Your being ... weird ...",
+    "page": 33,
+    "scene": 1
+   }
+  },
+  {
+   "id": 139,
+   "scene": 1,
+   "page": 33,
+   "speaker": "CAITLIN",
+   "line": "Bang, bang, bang, pow, pow, pow! ... Stop!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Be nice? Do you not remember what this man did to you?",
+    "page": 33,
+    "scene": 1
+   }
+  },
+  {
+   "id": 140,
+   "scene": 1,
+   "page": 33,
+   "speaker": "CAITLIN",
+   "line": "Are those both really for you?",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Reeeeeeefills!",
+    "page": 33,
+    "scene": 1
+   }
+  },
+  {
+   "id": 141,
+   "scene": 1,
+   "page": 33,
+   "speaker": "EVERYONE EXCEPT EMILIO",
+   "line": "To M.E.R.G.E.!",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "To M.E.R.G.E.!",
+    "page": 33,
+    "scene": 1
+   }
+  },
+  {
+   "id": 142,
+   "scene": 1,
+   "page": 34,
+   "speaker": "CAITLIN",
+   "line": "I didn't know that-!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Paco just told me he was working in film.",
+    "page": 34,
+    "scene": 1
+   }
+  },
+  {
+   "id": 143,
+   "scene": 1,
+   "page": 34,
+   "speaker": "CAITLIN",
+   "line": "Oh-",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Well, not in film. I was working on movie sets, but it didn't really pan out-though I did fill-in on a Fast & the Furious movie once working for craft services-",
+    "page": 34,
+    "scene": 1
+   }
+  },
+  {
+   "id": 144,
+   "scene": 1,
+   "page": 35,
+   "speaker": "CAITLIN",
+   "line": "I thought at some point we called it the Experience? Like the Multi-Ethnic Reject Group Experience?",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Merg ... g ... g ...",
+    "page": 35,
+    "scene": 1
+   }
+  },
+  {
+   "id": 145,
+   "scene": 1,
+   "page": 35,
+   "speaker": "CAITLIN",
+   "line": "Yeah, Emilio. Why are we talking about this?",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Wait, why are we talking about this?!",
+    "page": 35,
+    "scene": 1
+   }
+  },
+  {
+   "id": 146,
+   "scene": 1,
+   "page": 35,
+   "speaker": "CAITLIN",
+   "line": "Okay, you're being overdramatic.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Because I'm trying to get the facts straight. I seem to have ... very different, uh, memories than everyone else. I'm beginning to wonder if we even actually knew each other?",
+    "page": 35,
+    "scene": 1
+   }
+  },
+  {
+   "id": 147,
+   "scene": 1,
+   "page": 36,
+   "speaker": "CAITLIN",
+   "line": "Kristina, I feel anytime I happened to mention someone had a cute butt or something you would always go like this.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "What the-Caitlin, you're nodding?",
+    "page": 36,
+    "scene": 1
+   }
+  },
+  {
+   "id": 148,
+   "scene": 1,
+   "page": 37,
+   "speaker": "CAITLIN",
+   "line": "Emilio, what are you talking about?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Why am I beginning to feel like I'm on a porch with a bunch of strangers all of a sudden?",
+    "page": 37,
+    "scene": 1
+   }
+  },
+  {
+   "id": 149,
+   "scene": 1,
+   "page": 37,
+   "speaker": "CAITLIN",
+   "line": "Yeah, and maybe you needed time and space to like figure yourself out ... Being a gay in this community was probably very-",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Come on. You've been incommunicado since, like, my wedding.",
+    "page": 37,
+    "scene": 1
+   }
+  },
+  {
+   "id": 150,
+   "scene": 1,
+   "page": 37,
+   "speaker": "CAITLIN",
+   "line": "Aww, Emilio, are we being too mean to you-?",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Oh come on, Ursula, we're just teasing.",
+    "page": 37,
+    "scene": 1
+   }
+  },
+  {
+   "id": 151,
+   "scene": 1,
+   "page": 38,
+   "speaker": "CAITLIN",
+   "line": "Ursula started it earlier.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Whoa. I totally forgot about that until just now! Holy shit!",
+    "page": 38,
+    "scene": 1
+   }
+  },
+  {
+   "id": 152,
+   "scene": 1,
+   "page": 38,
+   "speaker": "CAITLIN",
+   "line": "What did you guys do?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "WHAT THE FAAAAAAAAAAAAAAHHHH-",
+    "page": 38,
+    "scene": 1
+   }
+  },
+  {
+   "id": 153,
+   "scene": 1,
+   "page": 39,
+   "speaker": "CAITLIN",
+   "line": "Emilio, relax ...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "No, you chill. Don't fucking put your hands on me. It wasn't fucking funny! I'm gonna puke!",
+    "page": 39,
+    "scene": 1
+   }
+  },
+  {
+   "id": 154,
+   "scene": 1,
+   "page": 39,
+   "speaker": "CAITLIN",
+   "line": "No.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "/ Yes.",
+    "page": 39,
+    "scene": 1
+   }
+  },
+  {
+   "id": 155,
+   "scene": 1,
+   "page": 39,
+   "speaker": "CAITLIN",
+   "line": "No I'm not.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Caitlin, what? Yes you are.",
+    "page": 39,
+    "scene": 1
+   }
+  },
+  {
+   "id": 156,
+   "scene": 1,
+   "page": 39,
+   "speaker": "CAITLIN",
+   "line": "Yeah, now I'm not anymore.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What? You just told me you were \"too stoned for this\" like ten minutes ago.",
+    "page": 39,
+    "scene": 1
+   }
+  },
+  {
+   "id": 157,
+   "scene": 1,
+   "page": 39,
+   "speaker": "CAITLIN",
+   "line": "And Ursula, too! Ursula gave it to us!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "No one is actually stoned but Caitlin-",
+    "page": 39,
+    "scene": 1
+   }
+  },
+  {
+   "id": 158,
+   "scene": 1,
+   "page": 40,
+   "speaker": "CAITLIN",
+   "line": "Don't judge me!",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "What? It's legal.",
+    "page": 40,
+    "scene": 1
+   }
+  },
+  {
+   "id": 159,
+   "scene": 1,
+   "page": 40,
+   "speaker": "CAITLIN",
+   "line": "You are! I can tell!",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Who is judging you?",
+    "page": 40,
+    "scene": 1
+   }
+  },
+  {
+   "id": 160,
+   "scene": 1,
+   "page": 42,
+   "speaker": "CAITLIN",
+   "line": "Don't. Emilio just had a whole Columbine moment before you guys got here.",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Oh, God. And those kids from Columbine or wherever. That was a whole thing.",
+    "page": 42,
+    "scene": 1
+   }
+  },
+  {
+   "id": 161,
+   "scene": 1,
+   "page": 42,
+   "speaker": "CAITLIN",
+   "line": "Wait, I'm confused. How do you fill a swimming pool with music and weird sounds?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Google.",
+    "page": 42,
+    "scene": 1
+   }
+  },
+  {
+   "id": 162,
+   "scene": 1,
+   "page": 43,
+   "speaker": "CAITLIN",
+   "line": "That sounds incredibly creepy.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "They're saying nursery rhymes ...",
+    "page": 43,
+    "scene": 1
+   }
+  },
+  {
+   "id": 163,
+   "scene": 1,
+   "page": 43,
+   "speaker": "CAITLIN",
+   "line": "How does that work?",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "It's like a landscape but with sound? I think it's like a long room with speakers hidden in the walls that are arranged in a certain way playing different sounds? And somehow the vibrations will intersect in different places and take on an almost ... physical quality? And you sort of walk through it and somehow people in certain age groups will start to segregate themselves and gather in certain parts of the room based on the sounds they're hearing or something?",
+    "page": 43,
+    "scene": 1
+   }
+  },
+  {
+   "id": 164,
+   "scene": 1,
+   "page": 43,
+   "speaker": "CAITLIN",
+   "line": "Why? Because we wouldn't \"get it\"?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I'm not uncomfortable. It's just the last thing I want to talk about right now is my work.",
+    "page": 43,
+    "scene": 1
+   }
+  },
+  {
+   "id": 165,
+   "scene": 1,
+   "page": 43,
+   "speaker": "CAITLIN",
+   "line": "Because it's dumb ... or because we're dumb?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "No? Because it's dumb.",
+    "page": 43,
+    "scene": 1
+   }
+  },
+  {
+   "id": 166,
+   "scene": 1,
+   "page": 44,
+   "speaker": "CAITLIN",
+   "line": "Thank you, Ur-",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Ahhh, Ursula!",
+    "page": 44,
+    "scene": 1
+   }
+  },
+  {
+   "id": 167,
+   "scene": 1,
+   "page": 44,
+   "speaker": "CAITLIN",
+   "line": "Hey, Ursula!",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Ohh-ho-ho-hooooo!",
+    "page": 44,
+    "scene": 1
+   }
+  },
+  {
+   "id": 168,
+   "scene": 1,
+   "page": 44,
+   "speaker": "CAITLIN",
+   "line": "CH-CH-BOOM!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Ahhh, guns!",
+    "page": 44,
+    "scene": 1
+   }
+  },
+  {
+   "id": 169,
+   "scene": 1,
+   "page": 46,
+   "speaker": "CAITLIN",
+   "line": "I mean, it was all about the guns and maybe it's some sort of PTSD thing-",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What is going on? What was he saying about meds earlier? Is he sick?",
+    "page": 46,
+    "scene": 1
+   }
+  },
+  {
+   "id": 170,
+   "scene": 1,
+   "page": 47,
+   "speaker": "CAITLIN",
+   "line": "Paco, are you okay?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Actually how about you give me my phone back?",
+    "page": 47,
+    "scene": 1
+   }
+  },
+  {
+   "id": 171,
+   "scene": 1,
+   "page": 47,
+   "speaker": "CAITLIN",
+   "line": "Paco is it ... post-traumatic stress-",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Well, I can tell you what they're not!",
+    "page": 47,
+    "scene": 1
+   }
+  },
+  {
+   "id": 172,
+   "scene": 1,
+   "page": 49,
+   "speaker": "CAITLIN",
+   "line": "There's a lady! There's a lady!",
+   "cue": {
+    "speaker": "DEATH",
+    "text": "And then there are certain individuals, like Paco, who are more than known to me. In fact, they are something more like familiars. They have not only born witness to some of my more complicated ... assignments ... but, at times, may have even been agents in my endeavors. This familiarity, however, does come with a cost. There is a point at which we can become so ... intimate, there is no turning back. A life is not a thing you can untake. And it's hard enough to unremember one death, let alone several, let alone ... a massacre. In general, I do try and go about my business with some degree of surreptitiousness, but multiple exposures to my handiwork does tend to reveal my patterns. You begin to see me everywhere. You become the eyes I have the hardest time hiding from, which can be a little uncomfortable for me. In fact, Francisco's been watching me ever since he showed up here-or perhaps the word is \"felt\"? But actually he feels me everywhere constantly. I suspect he feels me moving around inside him at this very moment ... Of course, that sort of sensitivity, unchecked, takes its toll. So one must find ways to distract one's self. You get very good at distractions, trying uselessly to get back to the state of blind blissfulness that everyone else seems to enjoy. So, sure, he's \"fine.\" Whatever \"fine\" means ... Hey, are you familiar with this notion of the danse macabre?",
+    "page": 48,
+    "scene": 1
+   }
+  },
+  {
+   "id": 173,
+   "scene": 1,
+   "page": 49,
+   "speaker": "EVERYONE",
+   "line": "Hey, lady! Hey, lady! Hey, lady!",
+   "cue": {
+    "speaker": "CAITLIN",
+    "text": "There's a lady! There's a lady!",
+    "page": 49,
+    "scene": 1
+   }
+  },
+  {
+   "id": 174,
+   "scene": 1,
+   "page": 50,
+   "speaker": "CAITLIN",
+   "line": "I'll have one more. But just like half of one.",
+   "cue": {
+    "speaker": "URSULA",
+    "text": "Does anyone else need another drink before you go?",
+    "page": 50,
+    "scene": 1
+   }
+  },
+  {
+   "id": 175,
+   "scene": 1,
+   "page": 51,
+   "speaker": "CAITLIN",
+   "line": "It was more than once.",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Emilio, I am a fucking anesthesiologist with a subspecialty in twilight fucking therapies. Do you know what that means? That means I literally give people ante-fucking-retrograde fucking amnesias on the daily so I think I would know if I was blacked the fuck out, but thank you very much. And, Caitlin, I would really appreciate it if you would stop going around town telling everybody about the one time I maybe \"browned out\" with you after a thirty-hour shift, okay? I was tired!",
+    "page": 50,
+    "scene": 1
+   }
+  },
+  {
+   "id": 176,
+   "scene": 1,
+   "page": 51,
+   "speaker": "CAITLIN",
+   "line": "And I am concerned for you. I'm your friend!",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "It's not more than once!",
+    "page": 51,
+    "scene": 1
+   }
+  },
+  {
+   "id": 177,
+   "scene": 1,
+   "page": 51,
+   "speaker": "CAITLIN",
+   "line": "Whoa, excuse me-",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Oh okay, well you can be a better friend and be more concerned about yourself! I'm certainly not going around to everyone talking about how much you resent your stepkids after two spicy margaritas or start to fantasize about walking out on your old-man husband!",
+    "page": 51,
+    "scene": 1
+   }
+  },
+  {
+   "id": 178,
+   "scene": 1,
+   "page": 51,
+   "speaker": "CAITLIN",
+   "line": "But I feel bad.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Nah. She'll be fine. She has to drink like this so she can get her feelings out.",
+    "page": 51,
+    "scene": 1
+   }
+  },
+  {
+   "id": 179,
+   "scene": 1,
+   "page": 52,
+   "speaker": "CAITLIN",
+   "line": "Nothing. He's just European. I don't know.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Kristina's gonna be fine. I want to keep dancing. You want in on this? What's going on between you two?",
+    "page": 52,
+    "scene": 1
+   }
+  },
+  {
+   "id": 180,
+   "scene": 1,
+   "page": 52,
+   "speaker": "CAITLIN",
+   "line": "Yeah. A little bit ... When did you become such a dancer?",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "I'm not gonna blame that on Europe. I always remembered he was kind of like this. Like he's always had a ... pissy constitution.",
+    "page": 52,
+    "scene": 1
+   }
+  },
+  {
+   "id": 181,
+   "scene": 1,
+   "page": 52,
+   "speaker": "CAITLIN",
+   "line": "Really? Who do you dance with?",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Believe it or not, you do a lot of dancing in the marines.",
+    "page": 52,
+    "scene": 1
+   }
+  },
+  {
+   "id": 182,
+   "scene": 1,
+   "page": 52,
+   "speaker": "CAITLIN",
+   "line": "No.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Uh. Each other. You ever youtubed \"Marines dance party in Iraq\"?",
+    "page": 52,
+    "scene": 1
+   }
+  },
+  {
+   "id": 183,
+   "scene": 1,
+   "page": 52,
+   "speaker": "CAITLIN",
+   "line": "Paco, what are you talking about?! I have so much respect for you.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Okay, well please don't. I may have gone viral in a way I did not intend and I'd like to maintain whatever shreds of respect you might still have for me.",
+    "page": 52,
+    "scene": 1
+   }
+  },
+  {
+   "id": 184,
+   "scene": 1,
+   "page": 52,
+   "speaker": "CAITLIN",
+   "line": "Why did Kristina say you were living on the streets?",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Really? That means a lot.",
+    "page": 52,
+    "scene": 1
+   }
+  },
+  {
+   "id": 185,
+   "scene": 1,
+   "page": 53,
+   "speaker": "CAITLIN",
+   "line": "I couldn't have been the only person writing to you.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "She's exaggerating a little bit. She doesn't understand. I couldn't afford my rent for a bit so I just thought, why don't I get a little bit lost, for a bit. That's all. I knew how to survive in the desert. That's all LA was. Another desert ... It wasn't as bad as she's making it seem. It was like ... an extended hike. Like camping. But it is why I stopped writing. I would think all the time, \"I should reach out.\" But days just keep stacking up, man, and you look up and ... But I still have your messages. Every single one. Those messages really meant a lot to me, you know. You'll never know how much they meant to me. Even though I wasn't writing, I still read them. I read them, every day, all of them. Whenever I could get to a computer. They got me through what happened to me in Fallujah. They got me through again-through the other desert. I feel like I only came here so I could look you in the eye and say thank you. You saved my life.",
+    "page": 52,
+    "scene": 1
+   }
+  },
+  {
+   "id": 186,
+   "scene": 1,
+   "page": 53,
+   "speaker": "CAITLIN",
+   "line": "Oh, they're great. Brock's starting law school. Olivia's in college.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "True. But your messages were the only ones I could be bothered with. Everyone else's were so ... I don't know. Nothing? Just updates on what people were doing. Daddy just retired, Kristina just finished her rotation. Everything was all about the present for them, their present but, you know, when you're out there, you start to feel ... outside of it. You start to live on your own time line. Everything seems to be happening to everyone else somewhere else. And you were the only person who would talk to me about the shit I knew about-the things I could remember. You kept me reminded of who I really was-all these little stories it felt like you were keeping for me ... Like that time we drove to the school football field after hours and messed around under the bleachers. Remember that? We almost got caught by that poor night janitor, that Haitian guy? He dropped to his knees and started praying. I guess he thought we were ghosts. A pair of ghosts under the bleachers. Man, I almost felt bad. You said you thought about it anytime you heard anyone talking French and now the same thing happens to me ... But that was a good story... I can't believe I'd almost lost it. Anyway, I should have reached out, but, uh, I didn't think you'd want to be bothered with all that. It was ... you know. But it's behind me now! I'm here. I'm back. Whatever that's going to mean. How's your family?",
+    "page": 53,
+    "scene": 1
+   }
+  },
+  {
+   "id": 187,
+   "scene": 1,
+   "page": 54,
+   "speaker": "CAITLIN",
+   "line": "What's crazy is they're basically the age I was when I married their father and I just think, you know, like ... Man ...",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Wow. That's crazy.",
+    "page": 54,
+    "scene": 1
+   }
+  },
+  {
+   "id": 188,
+   "scene": 1,
+   "page": 54,
+   "speaker": "CAITLIN",
+   "line": "I don't know. I look at them and can't help but look back on myself at that age and I just think I didn't know... anything. I didn't know how much time I really had ahead of me. I thought I was at the end of something. I thought I had to hurry up before ... some sort of door closed. I look at them and almost feel ... jealous? They have like a whole life ahead of them. I just didn't feel that way. I didn't feel like I had a whole life ahead of me.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "... Man?",
+    "page": 54,
+    "scene": 1
+   }
+  },
+  {
+   "id": 189,
+   "scene": 1,
+   "page": 54,
+   "speaker": "CAITLIN",
+   "line": "No, I'm happy! Of course!",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Are you ... unhappy?",
+    "page": 54,
+    "scene": 1
+   }
+  },
+  {
+   "id": 190,
+   "scene": 1,
+   "page": 54,
+   "speaker": "CAITLIN",
+   "line": "I'm happy! I love them. I love my family. Michael's ... a lot. He needs to stay off the internet but he's a good provider. I've made peace with ... uh, myself. You just ... say things sometimes. You know how it is.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Oh, yeah! Yeah!",
+    "page": 54,
+    "scene": 1
+   }
+  },
+  {
+   "id": 191,
+   "scene": 1,
+   "page": 54,
+   "speaker": "CAITLIN",
+   "line": "You can ... still have kids.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "I thought so. You seem happy... If anyone's jealous, it's me. Michael hit the jackpot. I wish I'd figured out how to have a family-have kids. Sometimes I think that would've, uh, made all the difference.",
+    "page": 54,
+    "scene": 1
+   }
+  },
+  {
+   "id": 192,
+   "scene": 1,
+   "page": 54,
+   "speaker": "CAITLIN",
+   "line": "Probably.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Uh, we'll see about that. We'll see if anybody still wants this ... whatever this is, this mess ... I wish we had figured ourselves out. You think we could have ever had kids?",
+    "page": 54,
+    "scene": 1
+   }
+  },
+  {
+   "id": 193,
+   "scene": 1,
+   "page": 54,
+   "speaker": "CAITLIN",
+   "line": "I'm going to kiss you.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "I guess it's too late now. That's the straw I drew, huh?",
+    "page": 54,
+    "scene": 1
+   }
+  },
+  {
+   "id": 194,
+   "scene": 1,
+   "page": 55,
+   "speaker": "CAITLIN",
+   "line": "Yeah. For old times' sake. I want to remember what it's like. Let's do it.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "You are?",
+    "page": 54,
+    "scene": 1
+   }
+  },
+  {
+   "id": 195,
+   "scene": 1,
+   "page": 55,
+   "speaker": "CAITLIN",
+   "line": "We're just dancing. Will you get out of my face?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What do you think you're doing?!",
+    "page": 55,
+    "scene": 1
+   }
+  },
+  {
+   "id": 196,
+   "scene": 1,
+   "page": 55,
+   "speaker": "CAITLIN",
+   "line": "What are you? My dad?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "That was not fucking dancing, Caitlin. And you know it wasn't.",
+    "page": 55,
+    "scene": 1
+   }
+  },
+  {
+   "id": 197,
+   "scene": 1,
+   "page": 55,
+   "speaker": "CAITLIN",
+   "line": "What are you even talking about?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "God forbid, because then you might marry me and then cheat on me with your high school boyfriend ... I think you need to recognize that you're not in your right mind. Is this not familiar to you?",
+    "page": 55,
+    "scene": 1
+   }
+  },
+  {
+   "id": 198,
+   "scene": 1,
+   "page": 55,
+   "speaker": "CAITLIN",
+   "line": "Emilio, you have no idea what you're talking about, so please shut up.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "This is how he always used to come to you. I thought this was always how he did it, when you were ... drunk, when you were-",
+    "page": 55,
+    "scene": 1
+   }
+  },
+  {
+   "id": 199,
+   "scene": 1,
+   "page": 55,
+   "speaker": "CAITLIN",
+   "line": "Ruin my life?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "You know what? You're right. You're an adult. Ruin your own life if you want to.",
+    "page": 55,
+    "scene": 1
+   }
+  },
+  {
+   "id": 200,
+   "scene": 1,
+   "page": 55,
+   "speaker": "CAITLIN",
+   "line": "You are actually getting on my nerves.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Yeah, your cushy little suburban life babysitting your retired cop who you / apparently hate?",
+    "page": 55,
+    "scene": 1
+   }
+  },
+  {
+   "id": 201,
+   "scene": 1,
+   "page": 56,
+   "speaker": "CAITLIN",
+   "line": "Why are you bringing shit up from a thousand years ago?!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "You weren't able to stop yourself back then. Why should it be any different now? Did this man coerce you or were you not coerced? ... Did he force you or didn't he?",
+    "page": 56,
+    "scene": 1
+   }
+  },
+  {
+   "id": 202,
+   "scene": 1,
+   "page": 56,
+   "speaker": "CAITLIN",
+   "line": "KRK! I said, stop it!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Because I need to understand what's real and what's not real. I need to decide if I wasted my life or not, believing you weren't a fucking first-class sociopath.",
+    "page": 56,
+    "scene": 1
+   }
+  },
+  {
+   "id": 203,
+   "scene": 1,
+   "page": 56,
+   "speaker": "CAITLIN",
+   "line": "You don't know anything. You were not there-",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Does that man even know what he did to you?",
+    "page": 56,
+    "scene": 1
+   }
+  },
+  {
+   "id": 204,
+   "scene": 1,
+   "page": 56,
+   "speaker": "CAITLIN",
+   "line": "You don't know what you're talking about so shut-the fuck-up.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I was there for the aftermath, Caitlin. / I was there every fucking time-",
+    "page": 56,
+    "scene": 1
+   }
+  },
+  {
+   "id": 205,
+   "scene": 1,
+   "page": 57,
+   "speaker": "CAITLIN",
+   "line": "Kristina, do you want to talk?",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Okay.",
+    "page": 57,
+    "scene": 1
+   }
+  },
+  {
+   "id": 206,
+   "scene": 1,
+   "page": 60,
+   "speaker": "CAITLIN",
+   "line": "Why are we talking about this?",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Yeah.",
+    "page": 60,
+    "scene": 1
+   }
+  },
+  {
+   "id": 207,
+   "scene": 1,
+   "page": 60,
+   "speaker": "CAITLIN",
+   "line": "Emilio, there was no reason. What is wrong with you?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Caitlin, wasn't there a reason?",
+    "page": 60,
+    "scene": 1
+   }
+  },
+  {
+   "id": 208,
+   "scene": 1,
+   "page": 62,
+   "speaker": "CAITLIN",
+   "line": "What do I call what?",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "What do you call it?",
+    "page": 62,
+    "scene": 1
+   }
+  },
+  {
+   "id": 209,
+   "scene": 1,
+   "page": 62,
+   "speaker": "CAITLIN",
+   "line": "Emilio, stop talking right now...",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I heard you \"didn't like the feel of rubber.\"",
+    "page": 62,
+    "scene": 1
+   }
+  },
+  {
+   "id": 210,
+   "scene": 1,
+   "page": 62,
+   "speaker": "CAITLIN",
+   "line": "Emilio!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I heard every time she asked, you would refuse. Is that true?",
+    "page": 62,
+    "scene": 1
+   }
+  },
+  {
+   "id": 211,
+   "scene": 1,
+   "page": 62,
+   "speaker": "CAITLIN",
+   "line": "There is something seriously wrong with you.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Do you know how many times I was driving her to a fucking clinic? Walking her past all those crazies with their poster boards? Holding her hand in those cold waiting rooms? Do you know how many times they mistook me for the one who did it? The looks I got. Why wasn't it ever you, Paco? Why was it you weren't ever there? Why didn't you ever ask him to come? Was it because you were scared? Did he scare you? Did you scare her, Paco?",
+    "page": 62,
+    "scene": 1
+   }
+  },
+  {
+   "id": 212,
+   "scene": 1,
+   "page": 64,
+   "speaker": "CAITLIN",
+   "line": "Francisco?",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Thank God. Cisco? Francisco? Paco?",
+    "page": 64,
+    "scene": 1
+   }
+  },
+  {
+   "id": 213,
+   "scene": 1,
+   "page": 64,
+   "speaker": "CAITLIN",
+   "line": "Stop it. Don't be embarrassed. It wasn't your fault.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "Fuck me. Did I piss myself? Man.",
+    "page": 64,
+    "scene": 1
+   }
+  },
+  {
+   "id": 214,
+   "scene": 1,
+   "page": 64,
+   "speaker": "CAITLIN",
+   "line": "Well it looks like you got your wish, Emilio!",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "Just rest. Guys, he's disoriented. He has to regain his bearings.",
+    "page": 64,
+    "scene": 1
+   }
+  },
+  {
+   "id": 215,
+   "scene": 1,
+   "page": 64,
+   "speaker": "CAITLIN",
+   "line": "Earlier, Emilio said he didn't even want Paco to be here.",
+   "cue": {
+    "speaker": "KRISTINA",
+    "text": "What?",
+    "page": 64,
+    "scene": 1
+   }
+  },
+  {
+   "id": 216,
+   "scene": 1,
+   "page": 64,
+   "speaker": "CAITLIN",
+   "line": "You liar. You were literally standing there going \"Do I feel safe?\" When it's actually been you, you who we should have been safe from-with all your negativity, all your negativity all fucking night, picking at him and picking at all of us and being so judgmental-all night!",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I did not say that!",
+    "page": 64,
+    "scene": 1
+   }
+  },
+  {
+   "id": 217,
+   "scene": 1,
+   "page": 65,
+   "speaker": "CAITLIN",
+   "line": "Oh shut up. See? This is what I'm talking about.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Well, first of all, let me point out that I did not start this seizure. I'm not the reason this guy is sick. In fact, it sounds like the war is what fucking started these seizures, correct Kristina? And, second of all, let's not sit here and act like my magnificent powers of judgment are capable of actually making anyone do anything. I mean, I wish my judgment actually mattered here or anywhere else, but it doesn't. Why do you think I fucking got out of this stupid country?",
+    "page": 65,
+    "scene": 1
+   }
+  },
+  {
+   "id": 218,
+   "scene": 1,
+   "page": 67,
+   "speaker": "CAITLIN",
+   "line": "You know, I actually feel sorry for you.",
+   "cue": {
+    "speaker": "FRANCISCO",
+    "text": "The thing that's here for something, for someone.",
+    "page": 67,
+    "scene": 1
+   }
+  },
+  {
+   "id": 219,
+   "scene": 1,
+   "page": 67,
+   "speaker": "CAITLIN",
+   "line": "No, you feel sorry for someone else. And I feel sorry for her, too, but she's not here right now. She's not here anymore. It's just me.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "I actually feel sorry for you.",
+    "page": 67,
+    "scene": 1
+   }
+  },
+  {
+   "id": 220,
+   "scene": 1,
+   "page": 67,
+   "speaker": "CAITLIN",
+   "line": "Prove what? If anyone's stuck, it's you. Ursula, are you coming? Everyone here's just a sad-sack loser who got stuck, that means you, too.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Prove it.",
+    "page": 67,
+    "scene": 1
+   }
+  },
+  {
+   "id": 221,
+   "scene": 1,
+   "page": 67,
+   "speaker": "CAITLIN",
+   "line": "Emilio, who are you kidding? All she's done all night is show you how much she cares about you, you and your stupid art, showering you with every kind word under the sun, and what have you done? Besides shut her down. Make her feel stupid-make all of us feel stupid-when actually you're the stuck one.",
+   "cue": {
+    "speaker": "EMILIO",
+    "text": "Leave her out of this.",
+    "page": 67,
+    "scene": 1
+   }
+  }
+ ]
+}

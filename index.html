@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Caitlin's Lines</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="bar">
+    <div class="title">
+      <span class="play">The Comeuppance</span>
+      <span class="who">Caitlin</span>
+    </div>
+    <div class="modes" role="tablist" aria-label="Mode">
+      <button role="tab" data-mode="chrono" aria-selected="true">In order</button>
+      <button role="tab" data-mode="random" aria-selected="false">Random</button>
+    </div>
+  </header>
+
+  <div class="meta">
+    <span id="counter">&nbsp;</span>
+    <span id="where">&nbsp;</span>
+  </div>
+  <div class="progress"><div id="progress-fill"></div></div>
+
+  <main id="stage" class="page" aria-live="polite">
+    <section class="cue">
+      <div class="speaker" id="cue-speaker"></div>
+      <div class="text" id="cue-text">Loading…</div>
+    </section>
+    <section class="line">
+      <div class="speaker mine" id="line-speaker"></div>
+      <div class="text"><span id="line-text" class="redacted"></span></div>
+    </section>
+  </main>
+
+  <footer class="controls">
+    <button id="back" class="ghost" aria-label="Previous card">←</button>
+    <div id="grade" class="grade" hidden>
+      <button id="missed" class="miss">Missed <kbd>M</kbd></button>
+      <button id="got" class="got">Got it <kbd>Space</kbd></button>
+    </div>
+    <div id="hint" class="hint">Space or tap to reveal</div>
+  </footer>
+
+  <div id="toast" class="toast" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

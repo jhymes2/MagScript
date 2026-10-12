@@ -1,0 +1,3 @@
+# Source scan: large, and only needed locally to run parse.py
+*.pdf
+__pycache__/
