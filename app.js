@@ -9,6 +9,7 @@ const el = {
   back: $("back"), grade: $("grade"), hint: $("hint"),
   got: $("got"), missed: $("missed"), toast: $("toast"),
   startPage: $("start-page"),
+  photos: $("photos"), photosToggle: $("photos-toggle"), message: $("message"),
 };
 
 let cards = [];
@@ -245,11 +246,29 @@ el.stage.addEventListener("click", () => {
   primary();
 });
 
+el.photosToggle.addEventListener("click", () => {
+  el.photos.hidden = !el.photos.hidden;
+  el.photosToggle.setAttribute("aria-pressed", String(!el.photos.hidden));
+});
+
 el.back.addEventListener("click", prev);
 el.got.addEventListener("click", () => grade(true));
 el.missed.addEventListener("click", () => grade(false));
 document.querySelectorAll(".modes button").forEach((b) =>
   b.addEventListener("click", () => setMode(b.dataset.mode)));
+
+// Re-read message.txt every few seconds, so edits to it show up live.
+function loadMessage() {
+  fetch("message.txt", { cache: "no-store" })
+    .then((r) => (r.ok ? r.text() : ""))
+    .then((text) => {
+      text = text.trim();
+      if (el.message.textContent !== text) el.message.textContent = text;
+    })
+    .catch(() => {});
+}
+loadMessage();
+setInterval(loadMessage, 3000);
 
 // --- Load ----------------------------------------------------------------
 

@@ -16,6 +16,7 @@
       <span class="who">Caitlin</span>
     </div>
     <div class="picks">
+      <button id="photos-toggle" class="pill" aria-pressed="false" aria-controls="photos">Photos</button>
       <select id="start-page" class="page-pick" aria-label="Start page"></select>
       <div class="modes" role="tablist" aria-label="Mode">
         <button role="tab" data-mode="chrono" aria-selected="true">In order</button>
@@ -23,6 +24,14 @@
       </div>
     </div>
   </header>
+
+  <div id="photos" class="photos" hidden>
+    <p id="message" class="message"></p>
+    <div class="photo-row">
+      <img src="photo1.PNG" alt="Photo 1">
+      <img src="photo2.PNG" alt="Photo 2">
+    </div>
+  </div>
 
   <div class="meta">
     <span id="counter">&nbsp;</span>
